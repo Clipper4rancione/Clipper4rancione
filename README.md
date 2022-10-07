@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Clipper4rancione
+- 👋 Hi, I’m Ciro Meluziis aka @Clipper4rancione
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Boolean FULL STACK WEB DEVELOPER COURSE
 
