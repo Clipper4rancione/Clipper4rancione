@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Ciro Meluziis aka @Clipper4rancione
 - 👀 I’m a Full Stack Web Developer
-- 🌱 I’m currently learning Experis/Boolean Java Full Stack Developer Course 
+- 🌱 I’m currently learning Experis/Boolean Java Full Stack Developer Course
+
+If you want, you can find all my projects and exercises during the course at boolean (Java and FSWD) in my repository page!
 
 
 <!---
