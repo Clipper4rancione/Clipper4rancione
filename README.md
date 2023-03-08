@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ciro Meluziis aka @Clipper4rancione
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Boolean FULL STACK WEB DEVELOPER COURSE
+- 👀 I’m a Full Stack Web Developer
+- 🌱 I’m currently learning Experis/Boolean Java Full Stack Developer Course 
 
 
 <!---
